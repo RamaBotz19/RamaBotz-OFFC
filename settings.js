@@ -24,29 +24,29 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "𝙍𝙖𝙢𝙖𝘽𝙤𝙩𝙯-𝙈𝘿" //namabot kalian
+global.ownername= "ᴹᴿ𝙍𝙖𝙢𝙖" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.youtube = "https://youtube.com/channel/UCJNi-zXIsky4nheONnxoY1w" //bebas asal jan hapus
+global.github = "https://RamaBotz19.github.io/" //bebas
+global.email = "putriecee@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["622150996855","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['6287793236775'] //premium user
+global.owner = ["6287793236775","6287793236775"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6287793236775" // nomor wa kalian
+global.ownernomerr = "+6287793236775" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© 𝙍𝙖𝙢𝙖𝘽𝙤𝙩𝙯-𝙈𝘿' //sticker wm ubah
+global.author = '𝙗𝙮𝙚 𝙍𝙖𝙢𝙖' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 10
 }
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -57,11 +57,11 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
+    sukses: '𝙎𝙚𝙡𝙚𝙨𝙖𝙞...',
+    admin: 'Perintah Ini Hanya Bisa Digunakan 𝙊𝙡𝙚𝙝 𝙖𝙙𝙢𝙞𝙣 !',
+    botAdmin: '𝙇𝙐 𝘼𝙅𝘼 𝙂𝘼 𝙅𝘼𝘿𝙄𝙄𝙉 𝙂𝙒 𝘼𝘿𝙈𝙄𝙉!',
+    owner: '𝘾𝙐𝙈𝘼 𝘽𝙄𝙎𝘼 𝘿𝙄 𝙋𝘼𝙆𝙀 𝙎𝙄 𝙍𝘼𝙈𝘼!',
+    group: '𝘿𝙄 𝙂𝙍𝙐𝘽 𝙂𝙐𝙉𝘼𝙄𝙉 𝙉𝙔𝘼 𝙉𝙂𝙀𝙉!',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
